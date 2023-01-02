@@ -1,0 +1,482 @@
+[
+	{
+		"id": "1",
+		"name": "Action",
+		"label": null,
+		"slug": "action",
+		"nsfw": "0",
+		"type": "1"
+	},
+	{
+		"id": "2",
+		"name": "Aventure",
+		"label": null,
+		"slug": "aventure",
+		"nsfw": "0",
+		"type": "1"
+	},
+	{
+		"id": "3",
+		"name": "Amitié",
+		"label": null,
+		"slug": "amitie",
+		"nsfw": "0",
+		"type": "1"
+	},
+	{
+		"id": "4",
+		"name": "Combat",
+		"label": null,
+		"slug": "combat",
+		"nsfw": "0",
+		"type": "1"
+	},
+	{
+		"id": "5",
+		"name": "Comédie",
+		"label": null,
+		"slug": "comedie",
+		"nsfw": "0",
+		"type": "1"
+	},
+	{
+		"id": "6",
+		"name": "Contes & Récits",
+		"label": null,
+		"slug": "contes-recits",
+		"nsfw": "0",
+		"type": "1"
+	},
+	{
+		"id": "7",
+		"name": "Cyber & Mecha",
+		"label": null,
+		"slug": "cyber-mecha",
+		"nsfw": "0",
+		"type": "1"
+	},
+	{
+		"id": "8",
+		"name": "Dark Fantasy",
+		"label": null,
+		"slug": "dark-fantasy",
+		"nsfw": "0",
+		"type": "1"
+	},
+	{
+		"id": "9",
+		"name": "Drame",
+		"label": null,
+		"slug": "drame",
+		"nsfw": "0",
+		"type": "1"
+	},
+	{
+		"id": "10",
+		"name": "Ecchi",
+		"label": null,
+		"slug": "ecchi",
+		"nsfw": "0",
+		"type": "1"
+	},
+	{
+		"id": "11",
+		"name": "Educatif",
+		"label": null,
+		"slug": "educatif",
+		"nsfw": "0",
+		"type": "1"
+	},
+	{
+		"id": "12",
+		"name": "Énigme & Policier",
+		"label": null,
+		"slug": "enigme-policier",
+		"nsfw": "0",
+		"type": "1"
+	},
+	{
+		"id": "13",
+		"name": "Épique & Héroique",
+		"label": null,
+		"slug": "epique-heroique",
+		"nsfw": "0",
+		"type": "1"
+	},
+	{
+		"id": "14",
+		"name": "Espace & Sci-Fiction",
+		"label": null,
+		"slug": "espace-sci-fiction",
+		"nsfw": "0",
+		"type": "1"
+	},
+	{
+		"id": "15",
+		"name": "Familial & Jeunesse",
+		"label": null,
+		"slug": "familial-jeunesse",
+		"nsfw": "0",
+		"type": "1"
+	},
+	{
+		"id": "16",
+		"name": "Fantastique & Mythe",
+		"label": null,
+		"slug": "fantastique-mythe",
+		"nsfw": "0",
+		"type": "1"
+	},
+	{
+		"id": "17",
+		"name": "Hentai",
+		"label": null,
+		"slug": "hentai",
+		"nsfw": "1",
+		"type": "1"
+	},
+	{
+		"id": "18",
+		"name": "Historique",
+		"label": null,
+		"slug": "historique",
+		"nsfw": "0",
+		"type": "1"
+	},
+	{
+		"id": "19",
+		"name": "Horreur",
+		"label": null,
+		"slug": "horreur",
+		"nsfw": "0",
+		"type": "1"
+	},
+	{
+		"id": "20",
+		"name": "Magical Girl",
+		"label": null,
+		"slug": "magical-girl",
+		"nsfw": "0",
+		"type": "1"
+	},
+	{
+		"id": "21",
+		"name": "Musical",
+		"label": null,
+		"slug": "musical",
+		"nsfw": "0",
+		"type": "1"
+	},
+	{
+		"id": "22",
+		"name": "Psychologique",
+		"label": null,
+		"slug": "psychologique",
+		"nsfw": "0",
+		"type": "1"
+	},
+	{
+		"id": "23",
+		"name": "Sport",
+		"label": null,
+		"slug": "sport",
+		"nsfw": "0",
+		"type": "1"
+	},
+	{
+		"id": "24",
+		"name": "Tranche de vie",
+		"label": null,
+		"slug": "tranche-de-vie",
+		"nsfw": "0",
+		"type": "1"
+	},
+	{
+		"id": "25",
+		"name": "Shôjo-Ai",
+		"label": null,
+		"slug": "shojo-ai",
+		"nsfw": "0",
+		"type": "1"
+	},
+	{
+		"id": "26",
+		"name": "Shônen-Ai",
+		"label": null,
+		"slug": "shonen-ai",
+		"nsfw": "0",
+		"type": "1"
+	},
+	{
+		"id": "27",
+		"name": "Yaoi",
+		"label": null,
+		"slug": "yaoi",
+		"nsfw": "0",
+		"type": "1"
+	},
+	{
+		"id": "28",
+		"name": "Yuri",
+		"label": null,
+		"slug": "yuri",
+		"nsfw": "0",
+		"type": "1"
+	},
+	{
+		"id": "29",
+		"name": "School Life",
+		"label": null,
+		"slug": "school-life",
+		"nsfw": "0",
+		"type": "1"
+	},
+	{
+		"id": "30",
+		"name": "Fantasy",
+		"label": null,
+		"slug": "fantasy",
+		"nsfw": "0",
+		"type": "1"
+	},
+	{
+		"id": "31",
+		"name": "Mystère",
+		"label": null,
+		"slug": "mystere",
+		"nsfw": "0",
+		"type": "1"
+	},
+	{
+		"id": "32",
+		"name": "Harem",
+		"label": null,
+		"slug": "harem",
+		"nsfw": "0",
+		"type": "1"
+	},
+	{
+		"id": "33",
+		"name": "Surnaturel",
+		"label": null,
+		"slug": "surnaturel",
+		"nsfw": "0",
+		"type": "1"
+	},
+	{
+		"id": "34",
+		"name": "Romance",
+		"label": null,
+		"slug": "romance",
+		"nsfw": "0",
+		"type": "1"
+	},
+	{
+		"id": "35",
+		"name": "Thriller",
+		"label": null,
+		"slug": "thriller",
+		"nsfw": "0",
+		"type": "1"
+	},
+	{
+		"id": "36",
+		"name": "Inceste",
+		"label": null,
+		"slug": "inceste",
+		"nsfw": "0",
+		"type": "1"
+	},
+	{
+		"id": "37",
+		"name": "Triangle Amoureux",
+		"label": null,
+		"slug": "triangle-amoureux",
+		"nsfw": "0",
+		"type": "1"
+	},
+	{
+		"id": "38",
+		"name": "Idols",
+		"label": null,
+		"slug": "idols",
+		"nsfw": "0",
+		"type": "1"
+	},
+	{
+		"id": "39",
+		"name": "Gastronomie",
+		"label": null,
+		"slug": "gastronomie",
+		"nsfw": "0",
+		"type": "1"
+	},
+	{
+		"id": "40",
+		"name": "Survival Game",
+		"label": null,
+		"slug": "survival-game",
+		"nsfw": "0",
+		"type": "1"
+	},
+	{
+		"id": "41",
+		"name": "Tokusatsu",
+		"label": null,
+		"slug": "tokusatsu",
+		"nsfw": "0",
+		"type": "1"
+	},
+	{
+		"id": "42",
+		"name": "Isekai",
+		"label": null,
+		"slug": "isekai",
+		"nsfw": "0",
+		"type": "2"
+	},
+	{
+		"id": "43",
+		"name": "Magie",
+		"label": null,
+		"slug": "magie",
+		"nsfw": "0",
+		"type": "2"
+	},
+	{
+		"id": "44",
+		"name": "BDSM",
+		"label": null,
+		"slug": "bdsm",
+		"nsfw": "1",
+		"type": "2"
+	},
+	{
+		"id": "45",
+		"name": "Ahegao",
+		"label": "Ahegao (????) est un terme de la pornographie japonaise désignant une expression faciale exagérée des personnages (généralement des femmes) pendant l'acte sexuel.",
+		"slug": "ahegao",
+		"nsfw": "1",
+		"type": "2"
+	},
+	{
+		"id": "46",
+		"name": "Anal",
+		"label": null,
+		"slug": "anal",
+		"nsfw": "1",
+		"type": "2"
+	},
+	{
+		"id": "47",
+		"name": "Foot Job",
+		"label": "une pratique sexuelle effectuée avec les pieds",
+		"slug": "foot-job",
+		"nsfw": "1",
+		"type": "2"
+	},
+	{
+		"id": "48",
+		"name": "Futanari",
+		"label": null,
+		"slug": "futanari",
+		"nsfw": "1",
+		"type": "2"
+	},
+	{
+		"id": "49",
+		"name": "Maid",
+		"label": null,
+		"slug": "maid",
+		"nsfw": "1",
+		"type": "2"
+	},
+	{
+		"id": "50",
+		"name": "Masturbation",
+		"label": null,
+		"slug": "masturbation",
+		"nsfw": "1",
+		"type": "2"
+	},
+	{
+		"id": "51",
+		"name": "Infirmière / Nurse",
+		"label": null,
+		"slug": "infirmiere-nurse",
+		"nsfw": "1",
+		"type": "2"
+	},
+	{
+		"id": "52",
+		"name": "Rape",
+		"label": null,
+		"slug": "rape",
+		"nsfw": "1",
+		"type": "2"
+	},
+	{
+		"id": "53",
+		"name": "Gros seins",
+		"label": null,
+		"slug": "gros-seins",
+		"nsfw": "1",
+		"type": "2"
+	},
+	{
+		"id": "54",
+		"name": "Petits seins",
+		"label": "small breasts",
+		"slug": "petits-seins",
+		"nsfw": "1",
+		"type": "2"
+	},
+	{
+		"id": "55",
+		"name": "NTR",
+		"label": "Netorare est ce qui se passe lorsque le protagoniste se fait voler sa femme/petite amie par quelqu'un d'autre.",
+		"slug": "ntr",
+		"nsfw": "1",
+		"type": "2"
+	},
+	{
+		"id": "56",
+		"name": "Uncensored",
+		"label": null,
+		"slug": "uncensored",
+		"nsfw": "1",
+		"type": "2"
+	},
+	{
+		"id": "57",
+		"name": "Vanilla",
+		"label": null,
+		"slug": "vanilla",
+		"nsfw": "1",
+		"type": "2"
+	},
+	{
+		"id": "58",
+		"name": "Gang Bang",
+		"label": null,
+		"slug": "gang-bang",
+		"nsfw": "1",
+		"type": "2"
+	},
+	{
+		"id": "59",
+		"name": "Giga seins",
+		"label": "gigantic breasts",
+		"slug": "giga-seins",
+		"nsfw": "1",
+		"type": "2"
+	},
+	{
+		"id": "60",
+		"name": "Tentacle",
+		"label": null,
+		"slug": "tentacle",
+		"nsfw": "1",
+		"type": "2"
+	}
+]
